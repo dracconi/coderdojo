@@ -45,20 +45,35 @@ h3 {
 /* line 32, style.scss */
 .col-2 {
   width: 50%;
+  height: 500px;
 }
 
-/* line 35, style.scss */
+/* line 36, style.scss */
 .left {
   float: left;
 }
 
-/* line 38, style.scss */
+/* line 39, style.scss */
 .right {
   float: right;
 }
 
-/* line 41, style.scss */
+/* line 42, style.scss */
 .hook {
   color: #a6a6a6;
   font-size: 10px;
+}
+
+/* line 46, style.scss */
+footer {
+  position: static;
+  bottom: 2px;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+/* line 53, style.scss */
+.col-1 {
+  width: 100%;
 }
