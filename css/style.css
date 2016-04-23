@@ -91,4 +91,7 @@ footer {
     width: 147px;
     height: 147px; }
 
+#twitter-widget-0 {
+  height: calc(100% - 25px) !important; }
+
 /*# sourceMappingURL=style.css.map */
